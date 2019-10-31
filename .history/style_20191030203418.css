@@ -6,7 +6,6 @@ h1 {
     color: white;
     text-align: center;
     background-color: black;
-    box-shadow: 5px 10px lightgray;
 }
 #left-box {
     float: left;
