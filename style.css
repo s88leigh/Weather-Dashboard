@@ -34,25 +34,35 @@ h1 {
 #monday {
     width: 100%;
     height: 180px;
+    margin-top: 20px;
     padding: 10px;
+    background-color: rgb(159, 206, 245);
 }
 #tuesday {
     width: 100%;
     height: 180px;
+    margin-top: 20px;
     padding: 10px;
+    background-color: rgb(159, 206, 245);
 }
 #wednesday {
     width: 100%;
     height: 180px;
+    margin-top: 20px;
     padding: 10px;
+    background-color: rgb(159, 206, 245);
 }
 #thursday {
     width: 100%;
     height: 180px;
+    margin-top: 20px;
     padding: 10px;
+    background-color: rgb(159, 206, 245);
 }
 #friday {
     width: 100%;
     height: 180px;
+    margin-top: 20px;
     padding: 10px;
+    background-color: rgb(159, 206, 245);
 }
