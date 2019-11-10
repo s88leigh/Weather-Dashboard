@@ -42,7 +42,6 @@ function renderButtons(city) {
     btn.attr("data-name", city);
     btn.text(city);
     $(".cities-array").append(btn);
-    
 }
 
 $("#searchBtn").on("click", function (event) {
