@@ -33,6 +33,26 @@ h1 {
 }
 #monday {
     width: 100%;
-    height: 30px;
-    padding: 20px;
+    height: 180px;
+    padding: 10px;
+}
+#tuesday {
+    width: 100%;
+    height: 180px;
+    padding: 10px;
+}
+#wednesday {
+    width: 100%;
+    height: 180px;
+    padding: 10px;
+}
+#thursday {
+    width: 100%;
+    height: 180px;
+    padding: 10px;
+}
+#friday {
+    width: 100%;
+    height: 180px;
+    padding: 10px;
 }
