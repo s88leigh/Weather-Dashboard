@@ -22,9 +22,9 @@ function displayWeatherInfo(city) {
         // ====== Building HTML Element =====
         let cityDiv = $("<div class='city'>");
         let header = $("<h4>").text(city);
-        let pOne = $("<p>").text("Temperature: " + temperature);
-        let pTwo = $("<p>").text("Wind Speed: " + windSpeed);
-        let pThree = $("<p>").text("Humidity: " + humidity);
+        let pOne = $("<p>").text("Temperature: " + temperature + String.fromCharCode(176) + "F"); 
+        let pTwo = $("<p>").text("Wind Speed: " + windSpeed + "mph");
+        let pThree = $("<p>").text("Humidity: " + humidity + "%");
         cityDiv.append(header, pOne, pTwo, pThree);
 
         // =======Push Element to Page =====
